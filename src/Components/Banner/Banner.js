@@ -1,5 +1,5 @@
 import Banner_img from '../../Assets/Banner/Banner_img.png'
-import './Banner.scss'
+import './Banner.css'
 const Banner = () => {
     return(
         <div className='Banner_Container'>

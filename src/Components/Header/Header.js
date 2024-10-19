@@ -1,7 +1,7 @@
 import { downArrow, logo, translate } from "../../Utils/Icons";
 import Banner from "../Banner/Banner";
 import ProductListing from "../ProductListing/ProductListing";
-import "./Header.scss";
+import "./Header.css";
 
 const Header = () => {
   return (

@@ -1,5 +1,5 @@
 import { logo, copyRights } from "../../Utils/Icons";
-import './Footer.scss'
+import './Footer.css'
 
 const Footer = () => {
   return (

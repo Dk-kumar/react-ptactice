@@ -1,8 +1,9 @@
 import { productMockData } from "../../MockData/productListData";
 import { arrowRight } from "../../Utils/Icons";
 import Footer from "../Footer/Footer";
+import Login from "../Login/Login";
 
-import "./ProductListing.scss";
+import "./ProductListing.css";
 
 const ProductListing = () => {
   return (
@@ -50,7 +51,7 @@ const ProductListing = () => {
           <button>Load more...</button>
         </div>
       </div>
-
+      <Login />
       <Footer />
     </>
   );
